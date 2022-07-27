@@ -7,10 +7,10 @@ connect with me on
 
 I try to improve myself daily because I believe consistent personal development is key to making the world a better place also enhancing my quality of life :v:
 
-- 🌱 I’m currently learning microservices & systems design
-- 💬 Ask me about Javascript, Backend
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I eat once a day on a good day
+- 🗣 Name pronounced as: Ah-beh-tang
+- 📚 I’m currently learning Low Level Design & Techincal Writing
+- 🙋🏽‍♂️ Ask me about Javascript/Typescript, Backend, Microservices & Systems Design
+- 🌚 Fun fact: I eat once a day on a good day
 
 
 <!--
