@@ -8,7 +8,7 @@ connect with me on
 I try to improve myself daily because I believe consistent personal development is key to making the world a better place also enhancing my quality of life :v:
 
 - 🗣 Name pronounced as: Ah-beh-tang
-- 📚 I’m currently learning Low Level Design & Techincal Writing
+- 📚 I’m currently learning Cloud Engineering 🌩🔌
 - 🙋🏽‍♂️ Ask me about Javascript/Typescript, Backend, Microservices & Systems Design
 - 🌚 Fun fact: I eat once a day on a good day
 
