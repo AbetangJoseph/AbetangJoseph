@@ -9,7 +9,7 @@ I try to improve myself daily because I believe consistent personal development 
 
 - 🗣 Name pronounced as: Ah-beh-tang
 - 📚 I’m currently learning Cloud Engineering 🌩🔌
-- 🙋🏽‍♂️ Ask me about Javascript/Typescript, Backend, Microservices & Systems Design
+- 🙋🏽‍♂️ Ask me about Javascript/Typescript, Backend, Microservices, DSA & Systems Design
 - 🌚 Fun fact: I eat once a day on a good day
 
 
